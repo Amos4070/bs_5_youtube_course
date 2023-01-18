@@ -1,0 +1,59 @@
+
+
+
+body{
+  background-color: rgb(red, green, rgb(50, 50, 94));
+}
+
+sectiopn{ 
+    padding:60px 0;
+}
+
+#me {
+  height: 100%;
+  width: 100%;
+  padding-top: 50px;
+  
+}
+
+#query{
+  height: 140px;
+
+}
+
+
+/* #img2 {
+  height: 50%;
+  width: 60%;
+  padding-top: 50px;
+  padding-left: 20px;
+  
+} */
+
+
+
+
+/* 
+
+#button1{
+    background-color: bisque;
+}
+
+#intro{
+background-image: url(images/intro.jpg);
+ background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#pricing{
+background-image: url(images/pricing.jpeg);
+ background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#topics{
+   background-repeat: no-repeat;
+    background-size: cover;
+background-image: url(images/reviews.jpg)
+}
+ */

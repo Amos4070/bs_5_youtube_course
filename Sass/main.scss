@@ -1,0 +1,24 @@
+//custom variable
+$primary:#c29938;
+$light:#fbf5e5;
+$dark:#212529;
+
+
+// the import funtion variable is for the theme below this how this should be
+
+@import "/home/musefiu_ojo_amos/Documents/html _css_javascript/web data/bs_5_youtube_course/node_modules/bootstrap/scss/_functions";
+
+@import "/home/musefiu_ojo_amos/Documents/html _css_javascript/web data/bs_5_youtube_course/node_modules/bootstrap/scss/_variables";
+
+
+$custom-theme-color:(
+    "altlight":#f2ebfa,
+    "altdark": #522192,
+);
+
+$theme-colors: map-merge($custom-theme-color, $theme-colors);
+
+
+
+//import bootstrap; this is for the custom variable above
+@import '/home/musefiu_ojo_amos/Documents/html _css_javascript/web data/bs_5_youtube_course/node_modules/bootstrap/scss/bootstrap';  
